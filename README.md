@@ -1,5 +1,5 @@
 ### Hi there 👋
 My name is Ömer Amir Akdağ.
-I'm studying Computer Science at Bilkent University.
-Interested in Data Analytics and Web Scraping
+I'm a Junior Data Scientist at Invent.ai and a Graduate Computer Scientist from Bilkent University.
+
 
